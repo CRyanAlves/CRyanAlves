@@ -2,7 +2,7 @@
 
 ## GitHub do Ryan Alves
 
-- 🔭 I’m currently eKaizen on [eKaizen](https://www.ekaizen.digital)
+- 🔭 I’m open to work
 - 🌱 I’m currently learning JavaScript
 
 ![Playlist HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
